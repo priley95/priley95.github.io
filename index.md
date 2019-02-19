@@ -24,7 +24,7 @@ I am proficient in using the R programming language, in which I have completed v
 ## Outreach & teaching activities
 I have conducted a set of voluntry workshops within the Department of Applied Mathematics at LJMU, to deliver content on R/RStudio to multidisciplinary students - to those with, and without, prior programming knowledge. Students have fed back positively on the workshops. 
 
-# Funding 
+## Funding 
 I am funded by the Liverpool John Moores University PhD Scholarship fund. 
 
 ![JMU logo](http://lcr4.uk/wp-content/uploads/2016/11/JMU.png)
