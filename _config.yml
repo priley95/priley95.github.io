@@ -1,3 +1,9 @@
 theme: jekyll-theme-leap-day
 title: Patrick Riley
 description: Machine Learning Group - PhD Student at Liverpool John Moores University
+
+navbar-links:
+  About Me: "aboutme"
+  Stuff:
+    - Research output: ""
+    - Teaching stuff: "http://www.markdowntutorial.com/"
