@@ -19,6 +19,7 @@ I am proficient in using the R programming language, in which I have completed v
 
 ## Previous degrees
 2018 - Data Science MSc, Liverpool John Moores University. Distinction.
+
 2017 - Mathematics BSc (Hons), Liverpool John Moores University. 1st Class.
 
 ## Outreach & teaching activities
