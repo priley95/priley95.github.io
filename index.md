@@ -6,10 +6,10 @@
 My PhD Research project is studying diagnosis of prostate cancer, through multiparametric MRI. This work extends to clinical decision support systems, including research in breast cancer with mammography images.
 Diagnosis of prostate cancer through MRI is the second line of defence, after an overspecific test (PSA blood test & TRUS biopsy). Early detection of prostate cancer is becoming increasingly important, with two-fifths of prostate cancers diagnosed at a late stage, according to the chartity Orchid (UK). MRI diagnosis is progressing to the first line of diagnosis, with [clinical trials taking place within the UK.](https://www.theguardian.com/society/2019/jun/09/mri-scans-to-be-trialled-as-test-for-prostate-cancer) With an abundance of available clinical data, particularly multiparametric MRI, it may be challenging to know where to start. My research project focuses on both the abundance of clinical data available from MRI scans and areas in demand from clinicians. 
 
-### Research Hypothesis
+**Research Hypothesis**
 Applying machine learning methodologies that are able to deal with multiparametric MRI, in an unsupervised or a semi-supervised manner, can improve the diagnosis and segmentation of prostate cancer.
 
-## Research interests
+**Research interests**
 I am interested in machine learning methodologies and interpretability, allowing for meaningful and impactful results. Previous work has looked at using methods such as Support Vector Machines for classification of prostate lesions from publically available datasets, such as PROSTATEx. This work is being conducted in collaboration with the [Clatterbridge Cancer Centre](https://www.clatterbridgecc.nhs.uk/), to progress towards real-world clinical impact.
 
 ## Publications
@@ -32,7 +32,7 @@ I am interested in machine learning methodologies and interpretability, allowing
 I attained both my Data Science MSc and my Mathematics BSc (Hons), at [Liverpool John Moores University, (LJMU)](https://www.ljmu.ac.uk). During the MSc I completed a Curriculum Enhancement Internship for creating better clustering analysis tools in R. In 2018 I attained acceptance onto my PhD within the Machine Learning Research Group at LJMU; my supervisor is [Dr Sandra Ortega Martorell](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/department-of-applied-mathematics/sandra-ortega-martorell)
 
 ## Skills
-### Programming and coding
+**Programming and coding**
 I am proficient in using the R programming language, in which I have completed various research projects with data science and machine leraning techniques. This includes R Markdown and some skills in development in R Shiny. I have acquired skills in Python and MATLAB.
 
 ## Previous degrees
