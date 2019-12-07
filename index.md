@@ -1,5 +1,7 @@
 # Patrick Riley - PhD Student
 
+[ORCiD available here.](https://orcid.org/0000-0002-4917-5827)
+
 [LJMU Machine Learning Research Group](https://www.ljmu.ac.uk/research/centres-and-institutes/machine-learning-research-group)
 
 ## Research project
